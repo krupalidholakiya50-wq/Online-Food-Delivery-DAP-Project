@@ -2,7 +2,7 @@
 
 **Subject:** 602 – Data Analytics Using Python (DAP)  
 **Domain:** Food, E-Commerce & Consumer Analytics  
-**Group:** 24 
+**Group:** 6  
 **Semester:** TYBCA Sem-6  
 
 ---
@@ -23,12 +23,8 @@ Online_Food_Delivery_Demand_Forecasting/
 │   └── processed/
 │       └── food_delivery_clean.csv        # Cleaned and feature-engineered dataset (28 columns)
 │
-├── notebooks/                              # Academic DAP sequential Jupyter Notebooks
-│   ├── 01_data_understanding.ipynb         # Steps 1–3: Imports, Data Loading, Structure Analysis
-│   ├── 02_cleaning_eda.ipynb               # Steps 4–9: Cleaning, Imputation, Univariate/Bivariate/Multivariate EDA
-│   ├── 03_regression_analysis.ipynb        # Steps 10–11: Train-Test Split, Linear Regression, Evaluation (MSE/MAE/R²)
-│   ├── 04_classification_analysis.ipynb    # Steps 12–13: Logistic Regression, Peak Hour Classification, Confusion Matrix
-│   └── 05_final_analysis.ipynb             # Steps 14–15: Underfitting/Overfitting Diagnostics & Final Conclusions
+├── notebooks/                              # Academic DAP Master Jupyter Notebook
+│   └── Online_Food_Delivery_DAP_Final.ipynb # ⭐ MASTER FINAL NOTEBOOK (All 15 Academic Steps in One Continuous Notebook)
 │
 ├── scripts/                                # Modular Python Automation Scripts
 │   ├── data_loader.py                      # Data fetching and merging script
